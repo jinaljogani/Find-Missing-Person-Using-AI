@@ -60,7 +60,7 @@ This project introduces an **AI-assisted platform** designed to expedite the pro
 
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/jinal/Find-Missing-Person-Using-AI.git
+   git clone https://github.com/jinaljogani/Find-Missing-Person-Using-AI.git
    cd Find-Missing-Person-Using-AI
    pip install -r requirements.txt
 
