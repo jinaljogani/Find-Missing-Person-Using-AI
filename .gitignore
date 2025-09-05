@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+sqlite_database.db
+classifier.pkl
+/venv
+
+*.ps1
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+.env

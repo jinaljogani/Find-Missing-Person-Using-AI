@@ -1,0 +1,19 @@
+# https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/
+
+
+credentials:
+  usernames:
+    ${USERNAME}:
+      email: ${EMAIL_ID}
+      name: ${NAME}
+      city: Noida
+      area: Sector 128
+      role: Admin
+      password: ${PASSWORD_HASH}
+cookie:
+  expiry_days: 1
+  key: ${COOKIE_KEY}
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - ${EMAIL_ID}
